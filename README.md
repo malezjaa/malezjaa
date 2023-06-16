@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Krzysiek and I'm a Fullstack Develoepr, from Poland.</h2>
+<h2 align="left">Hi 👋! My name is Krzysiek and I'm a Fullstack Developer, from Poland.</h2>
 
 ###
 
