@@ -1,6 +1,6 @@
 ## Hi 👋! I'm Krzysiek
 
-👨‍💻 Programming in Typescript
+👨‍💻 Programming in Typescript and Rust
 
 💗 Your [support](https://github.com/sponsors/malezjaa) would mean a world for me.
 
